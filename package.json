@@ -1,0 +1,24 @@
+{
+  "name": "sqlizetest",
+  "version": "1.0.0",
+  "description": "System to handle courses, teachers, students and their enrollments.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniotrkdz/sqlizeTest.git"
+  },
+  "author": "Antonio Trabalza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antoniotrkdz/sqlizeTest/issues"
+  },
+  "homepage": "https://github.com/antoniotrkdz/sqlizeTest#readme",
+  "dependencies": {
+    "pg": "^8.11.3",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.33.0"
+  }
+}
